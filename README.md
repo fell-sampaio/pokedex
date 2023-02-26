@@ -30,7 +30,7 @@ The following tools were used in the construction of the project:
 <a href="https://github.com/fell-sampaio">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62025480?v=4" width="100px;" alt="Felipe's image"/>
  <br />
- <sub><b>Felipe Sampaio</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Felipe Sampaio</b></sub></a> <a href="https://github.com/fell-sampaio" title="Github">🚀</a>
 
  Feel free to get in touch!
 
