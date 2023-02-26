@@ -4,6 +4,7 @@
 
 <h1 align="center">:rice_ball: Pokédex</h1>
 
+## Project description
 <p align="center">Want to know the name, number or gif of a pokémon? Type the name or number in input, type enter and see wild pokémon apears!</p>
 
 <h4 align="center"> 
